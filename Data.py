@@ -7,9 +7,9 @@ from pyrogram.types import InlineKeyboardButton
 class Data:
     HELP = """
 <b> ❏ Perintah untuk Pengguna BOT
- ├ /start - Mulai Bot
- ├ /about - Tentang Bot ini
- ├ /help - Bantuan Perintah Bot ini
+ ├ /start - start the boat
+ ├ /about - About the bot
+ ├ /help - Help Command this Bot
  ├ /ping - Untuk mengecek bot hidup
  └ /uptime - Untuk melihat status bot 
  
